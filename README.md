@@ -66,3 +66,4 @@ Proyecto web para comparar precios de la canasta familiar en supermercados de Co
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SoliDeoGloria123&show_icons=true&theme=transparent&hide_border=true&locale=es)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SoliDeoGloria123&layout=compact&theme=transparent&hide_border=true&locale=es)
+⭐ ¡Gracias por visitar mi perfil!
